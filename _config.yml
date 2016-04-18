@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.4135176857101186
-  lightness: 0.8927204753458944
-  rhythmicContrast: 0.22553020812857716
-  saturation: 0.5516188580672305
+    - '#C0C0B8'
+    - '#000000'
+    - '#888880'
+    - '#000000'
+    - '#000000'
+  brandStrength: 1
+  lightness: 1
+  rhythmicContrast: 0.516892
+  saturation: 0.498311
 cta: {}
 layout_spectrum: 0.9885510937116135
 name: Blox
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.9714925486160082
+typography_spectrum: 0.208615
